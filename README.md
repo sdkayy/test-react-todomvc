@@ -16,7 +16,7 @@ I feel this folder structure is pretty straight forward and really easy to navig
 
 # Deployment
 
-If this were a production application I would deploy with (now)[https://zeit.co/now].
+If this were a production application I would deploy with [now](https://zeit.co/now).
 
 # How it works
 
